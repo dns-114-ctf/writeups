@@ -33,4 +33,4 @@ Chaque dossier contient un sous-dossier par compétition / challenge, avec un `R
 
 ---
 
-*Cybersecurity & Software Engineering student — école d'ingénieurs*
+*Cybersecurity & Software Engineering 
